@@ -1,4 +1,4 @@
-# 90-Day Confidence Training README
+# 90-Day Confidence Training
 
 ## Introduction
 This project, "90-Day Confidence Training", is centered around a simple yet powerful concept. The aim is to supercharge your self-confidence over a period of three months.
